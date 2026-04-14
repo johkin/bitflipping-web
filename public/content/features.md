@@ -1,0 +1,16 @@
+---
+label: "Engineered Primitives"
+title: "Technical depth, simplified."
+---
+- title: "Deep Debugging"
+  desc: "Tracing heisenbugs across distributed systems and finding that one race condition keeping you up at night."
+  icon: "search"
+- title: "Turning Coffee into Code"
+  desc: "Full-cycle development from high-level requirements to memory-safe, high-performance implementations."
+  icon: "coffee"
+- title: "Taming the Cloud"
+  desc: "Infrastructure as code that actually works. We manage the complexity so your scale remains horizontal and painless."
+  icon: "cloud_off"
+- title: "Architecture of Last Resort"
+  desc: "When everyone else says it's impossible, we redesign the foundation for extreme reliability and throughput."
+  icon: "cpu"

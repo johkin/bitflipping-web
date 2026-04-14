@@ -1,0 +1,17 @@
+---
+label: "The Bitflip Loop"
+title: "Our iterative philosophy for perfection."
+description: "We don't just solve problems; we define a repeatable state of excellence through rigorous engineering discipline."
+---
+- id: "00"
+  title: "Hypothesize"
+  desc: "Analyzing metrics, stdouts, and logs to form a scientific model of why the system is misbehaving."
+- id: "01"
+  title: "Flip Bits"
+  desc: "Applying targeted changes. Surgical precision in code, configuration, and kernel parameters."
+- id: "10"
+  title: "Deploy"
+  desc: "CI/CD pipelines that actually verify results before traffic shifts. Zero-downtime is our baseline."
+- id: "11"
+  title: "Sleep"
+  desc: "Automation so robust that pagers remain silent. Engineering meant to be forgotten because it just works."
