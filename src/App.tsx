@@ -254,11 +254,11 @@ export default function App() {
     const fetchContent = async () => {
       try {
         const [heroRes, featuresRes, processRes, navRes, footerRes] = await Promise.all([
-          fetch('/content/hero.md'),
-          fetch('/content/features.md'),
-          fetch('/content/process.md'),
-          fetch('/content/nav.md'),
-          fetch('/content/footer.md')
+          fetch('content/hero.md'),
+          fetch('content/features.md'),
+          fetch('content/process.md'),
+          fetch('content/nav.md'),
+          fetch('content/footer.md')
         ]);
 
         const [heroText, featuresText, processText, navText, footerText] = await Promise.all([
